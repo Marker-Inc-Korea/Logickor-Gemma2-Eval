@@ -1,6 +1,7 @@
 # Logickor-Gemma2-Eval
 This repo was created internally to utilize the [🌟logickor🌟](https://github.com/instructkr/LogicKor) evaluation for self-evaluation.  
-Our code is `zero-shot` only.  
+Maybe, our code is same manner as [logickor v2](https://arca.live/b/alpaca/110292861?mode=best).  
+> Our code provides `zero-shot` code only.  
   
 **Gukbap-Mistral-7B🍚 (6.06):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Mistral-7B)   
 **Gukbap-Qwen2-7B🍚 (6.70):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Qwen2-7B)   
