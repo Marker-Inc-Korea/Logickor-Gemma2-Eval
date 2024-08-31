@@ -12,7 +12,7 @@ pip install vllm==0.5.1
 ```
   
 2. Add `FLASHINFER` backend in your script file.
-```sh
+```bash
 export VLLM_ATTENTION_BACKEND=FLASHINFER
 ```
 
@@ -21,7 +21,7 @@ export VLLM_ATTENTION_BACKEND=FLASHINFER
 
 # Evaluation
 Please check the [script file](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/logickor_self_gemma2_eval.sh).
-```
+```bash
 # Example
 export VLLM_ATTENTION_BACKEND=FLASHINFER 
 
