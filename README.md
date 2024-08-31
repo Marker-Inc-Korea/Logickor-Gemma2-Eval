@@ -33,11 +33,13 @@ python mtbench.py \
     --is_multi_turn 1 \
     --eval_model gpt-4-1106-preview \
     --repo_name HumanF-MarkrAI \ 
-    --base_model Gukbap-Qwen2-7B \ 
-    --max_token 8192
+    --base_model Gukbap-Gemma2-9B \ 
+    --max_token 4096
 ```
 > If you want to test other models (mistral, qwen, ...), then you need to remove `export VLLM_ATTENTION_BACKEND=FLASHINFER`.
+> If you test the Gemma2 models, you need to set max_token < 8192. Cuurently, vllm cannot apply 8192 token with Gemma2.
 
+  
 # Example
 - [HumanF-MarkrAI/Gukbap-Mistral-7B🍚](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/results/Gukbap-Mistral-7B_0.jsonl)
 - [HumanF-MarkrAI/Gukbap-Qwen2-7B🍚](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/results/Gukbap-Qwen2-7B_0.jsonl)
