@@ -43,7 +43,7 @@ python mtbench.py \
 # BibTex
 ```
 @article{HumanF-MarkrAI,
-  title={Gukbap-Mistral-7B},
+  title={Gukbap-Series-LLM},
   author={MarkrAI},
   year={2024},
   url={https://huggingface.co/HumanF-MarkrAI}
