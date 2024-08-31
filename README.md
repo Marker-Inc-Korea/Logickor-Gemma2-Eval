@@ -1,9 +1,9 @@
 # Logickor-Gemma2-Eval
-This repo was created internally to utilize the [🌟logickor🌟](https://github.com/instructkr/LogicKor) evaluation for self-evaluation.
-
+This repo was created internally to utilize the [🌟logickor🌟](https://github.com/instructkr/LogicKor) evaluation for self-evaluation.  
+Our code is `zero-shot` only.  
 
 # Dependency (important)
-There are many issues with evaluating Gemma2 in vllm.
+There are many issues with evaluating Gemma2 in vllm.  
 Therefore, you should follow the installation below.
    
 1. Download `vllm 0.5.1` version.
