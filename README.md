@@ -2,9 +2,9 @@
 This repo was created internally to utilize the [🌟logickor🌟](https://github.com/instructkr/LogicKor) evaluation for self-evaluation.  
 Our code is `zero-shot` only.  
   
-**Gukbap-Mistral-7B🍚:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Mistral-7B)   
-**Gukbap-Qwen2-7B🍚:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Qwen2-7B)   
-**Gukbap-Gemma2-7B🍚:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Gemma2-9B) 
+**Gukbap-Mistral-7B🍚 (6.06):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Mistral-7B)   
+**Gukbap-Qwen2-7B🍚 (6.70):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Qwen2-7B)   
+**Gukbap-Gemma2-7B🍚 (8.77):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Gemma2-9B) 
   
 # Dependency (important)
 There are many issues with evaluating Gemma2 in vllm.  
