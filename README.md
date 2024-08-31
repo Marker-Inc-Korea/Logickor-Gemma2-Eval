@@ -1,6 +1,7 @@
 # Logickor-Gemma2-Eval
 This repo was created internally to utilize the [🌟logickor🌟](https://github.com/instructkr/LogicKor) evaluation for self-evaluation.
 
+
 # Dependency (important)
 There are many issues with evaluating Gemma2 in vllm.
 Therefore, you should follow the installation below.
@@ -19,7 +20,7 @@ export VLLM_ATTENTION_BACKEND=FLASHINFER
 - If there are some error, then try: [solution2](https://github.com/vllm-project/vllm/issues/7070#issuecomment-2264860720).
 
 # Evaluation
-Please check the [script file]().
+Please check the [script file](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/logickor_self_gemma2_eval.sh).
 ```
 # Example
 export VLLM_ATTENTION_BACKEND=FLASHINFER 
@@ -34,9 +35,9 @@ python mtbench.py \
 > If you want to test other models (mistral, qwen, ...), then you need to remove `export VLLM_ATTENTION_BACKEND=FLASHINFER`.
 
 # Example
-- [HumanF-MarkrAI/Gukbap-Mistral-7B🍚]()
-- [HumanF-MarkrAI/Gukbap-Qwen2-7B🍚]()
-- [HumanF-MarkrAI/Gukbap-Gemma2-7B🍚]()
+- [HumanF-MarkrAI/Gukbap-Mistral-7B🍚](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/results/Gukbap-Mistral-7B_0.jsonl)
+- [HumanF-MarkrAI/Gukbap-Qwen2-7B🍚](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/results/Gukbap-Qwen2-7B_0.jsonl)
+- [HumanF-MarkrAI/Gukbap-Gemma2-7B🍚](https://github.com/Marker-Inc-Korea/Logickor-Gemma2-Eval/blob/main/results/Gukbap-Gemma2-9B_0.jsonl)
 
 
 # BibTex
