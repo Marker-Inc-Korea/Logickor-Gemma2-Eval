@@ -5,7 +5,7 @@ Maybe, our code is same manner as [logickor v2](https://arca.live/b/alpaca/11029
   
 **Gukbap-Mistral-7B🍚 (6.06):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Mistral-7B)   
 **Gukbap-Qwen2-7B🍚 (6.70):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Qwen2-7B)   
-**Gukbap-Gemma2-7B🍚 (8.77):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Gemma2-9B) 
+**Gukbap-Gemma2-9B🍚 (8.77):** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/HumanF-MarkrAI/Gukbap-Gemma2-9B) 
   
 # Dependency (important)
 There are many issues with evaluating Gemma2 in vllm.  
