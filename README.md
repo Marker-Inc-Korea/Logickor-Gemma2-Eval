@@ -54,7 +54,7 @@ python 1_shot_mtbench.py \
     --max_token 4096 \
     --prompt cot-1-shot # You select [cot-1-shot or 1-shot]
 ```
-> Gemma2 do not provide `system` prompt.
+> Gemma2 do not support `system` prompt.
 
   
 # Example
