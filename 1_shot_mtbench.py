@@ -54,7 +54,7 @@ if __name__ == '__main__':
     ## System prompt 지원 안함
     ### https://github.com/sgl-project/sglang/issues/892
     if "gemma2" in args.base_model.lower():
-        print("Gemma2 prompt")
+        print("Gemma2 do not suuport System prompt.")
         
         prompt_strategy = {
             "cot-1-shot": [
